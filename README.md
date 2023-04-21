@@ -2,7 +2,7 @@
 This website contains helpers (e.g. to find the best possible armor) and more stuff in the future.
 
 # Main Page
-https://myaltaccountsthis.github.io/arcane-odyssey-guides/
+https://Level-11-0.github.io/AO/
 
 ## Subpages
 [Armor Builds](https://myaltaccountsthis.github.io/arcane-odyssey-guides/armor.html)\
